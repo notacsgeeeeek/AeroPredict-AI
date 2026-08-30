@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+telemetry_log.csv
+saved_models/
+.DS_Store
